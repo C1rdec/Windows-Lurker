@@ -2,7 +2,7 @@
 using System.Runtime.InteropServices;
 using System.Text;
 
-namespace WindowsUtilities
+namespace Lurker.Windows
 {
     public static class Native
     {

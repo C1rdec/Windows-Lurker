@@ -1,9 +1,9 @@
 ﻿using System;
 using System.IO;
 using System.Runtime.InteropServices.ComTypes;
-using static WindowsUtilities.Native;
+using static Lurker.Windows.Native;
 
-namespace WindowsUtilities
+namespace Lurker.Windows
 {
     public class WindowsLink
     {
