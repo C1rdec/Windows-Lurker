@@ -9,8 +9,8 @@ namespace Lurker.Windows
     {
         #region Fields
 
-        private string _linkName;
-        private string _description;
+        private readonly string _linkName;
+        private readonly string _description;
 
         #endregion
 
